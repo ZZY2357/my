@@ -1,3 +1,5 @@
+# Can's see
+
 ```
 U2FsdGVkX1+EsXdyZBGTL0QNOEAeIPpc5tm3gEmJB8fcHZOq2NmW9qV5GwkxMBDB
 88TCJQ1NPBsxtpov7peVXUfa8Y+469qg9v/x4mwqe1VTftSpokeVYnZ16EoQqmPh
@@ -6,4 +8,6 @@ Jh/8tAu3021H7gEcLa9e0FuXfA/9g6YPudmVpYkPv6pFfim6yfQRWT4HPSgFKoRL
 kZQsetpgmim8G3gUxFOQu9rac8o/gjbASPIsXvt6
 ```
 
-`wdnmd`
+RC4
+Key: `wdnmd`
+
