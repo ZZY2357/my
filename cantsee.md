@@ -12,6 +12,7 @@ jcKgxnW4ED+Z/NROl8DpyGm1LFGx4qbt7u3gE/cEf7w3Mnsd3k9Y1+E=
 ```
 
 RC4
+
 Key: `通商宽衣`
 
 ```
@@ -155,4 +156,5 @@ xo4/I1CsDNrDdeKyN+kxqdO2lyAi5Q6K1ew=
 ```
 
 RC4
-RC4 Key: `我爱北京天安门`
+
+Key: `我爱北京天安门`
